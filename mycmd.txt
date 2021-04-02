@@ -1,0 +1,7 @@
+touch mycmd.txt
+pip3 install Flask
+pip3 freeze --local > requirements.txt
+
+mkdir templates
+
+mkdir static
